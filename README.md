@@ -12,7 +12,7 @@ git remote add origin https://github.com/carolinebranco/LojaVirtual.git
   <title>LojaVirtual</title>
   <style>
     * {
-      margin: 0;
+      margin: 3;
       padding: 0;
       box-sizing: border-box;
     }
